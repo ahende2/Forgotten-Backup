@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title> My Home Page </title>
+<style type="text/css">
+h3
+{
+text-align: center;
+font-size: 2em;
+color: purple;
+}
+</style>
+</head>
+<body>
+<h3>
+Amanda Henderson <br>
+School of Humanities & Social Sciences <br>
+George Mason University <br>
+</h3>
+<style type="text/css">
+{
+	font-family: "Times New Roman", Times, serif;
+	font-style: oblique
+	font-size: 1em;
+	}
+</style>
+<p class="title"> fancy words? </p>
+<p> not fancy words </p>
+</body>
+</html>
